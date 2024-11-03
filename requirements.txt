@@ -1,0 +1,4 @@
+streamlit
+scikit-learn  # Only if your model is from scikit-learn
+numpy         # Include if used for data formatting or processing
+pandas        # Include if you’re using data frames
